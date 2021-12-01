@@ -1,22 +1,19 @@
+# LIS 4910 - IT Project
 
-This assignment was locked Jul 5 at 11:59pm.
-This is not a group assignment. Don't share your .mpp file with group members. 
+## Jamel Douglas
 
+### Gantt Chart
+
+#### Objectives
 Please, create & submit your project Gantt Chart.
 
-Submit 2 files. 
+#### Tasks
+- All tasks are sequential.
+- All tasks are linked. 
+- All tasks are automatically scheduled. 
+- Assign all tasks resources. 
 
-1. MS project file (yourname.mpp).
-
-2. PDF file (File - Export - Create PDF (Publish Range All) 
-
-Requirements.
-
-1. All tasks are sequential.
-
-2. All tasks are linked. 
-
-3. All tasks are automatically scheduled. 
-
-4. Assign all tasks resources. 
-
+#### General Requirements
+Submit 2 files:
+- MS project file (yourname.mpp).
+- PDF file (File - Export - Create PDF (Publish Range All) 
