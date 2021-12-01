@@ -5,8 +5,7 @@
 ### Presentation
 
 #### Objectives
-Create a presentation
-Your presentation should use some kind of multimedia (PowerPoint, Prezi, etc.) and contain a basic overview of your project.
+Create a presentation. Your presentation should use some kind of multimedia (PowerPoint, Prezi, etc.) and contain a basic overview of your project.
 
 #### Tasks
 Presentation must include:
