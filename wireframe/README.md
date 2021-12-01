@@ -2,7 +2,7 @@
 
 ## Jamel Douglas
 
-### Work Breakdown Structure
+### Wireframe 
 
 #### Objectives
 Please, create & submit your project prototype (wireframe).

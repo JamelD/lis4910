@@ -2,7 +2,7 @@
 
 ## Jamel Douglas
 
-### Work Breakdown Structure
+### Midterm
 
 #### Objectives
 This week is exam week, and then we transition into the “execution phase” where you begin the research, design, and development of your course projects. You are to evaluate either Android Auto or Apple CarPlay.
